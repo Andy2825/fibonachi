@@ -1,6 +1,3 @@
-const n = parseInt(prompt('Enter Fibonacci number: '));
-
-
 function bringFibNum(n) {
     let first = 1, second = 1;
     let res;
